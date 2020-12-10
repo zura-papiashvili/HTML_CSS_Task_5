@@ -1,0 +1,82 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+body{
+    padding:2.9%;
+    padding-top:0.4%;
+}
+h1{
+    font-size:18px;
+    font-family: MyriadPro-Regular;
+    text-align: center;
+    margin-bottom:0.8%;
+}
+.main-block{
+    height: 100%;
+    width: 100%;
+    padding:2.9%;
+}
+.blue-box{
+    height: 100%;
+    width: 100%;
+    background-color:#042F5F;
+    border: 4px solid #070068;
+    padding:2.9%;
+}
+
+.white-box{
+    padding:2.9%;
+    height: 100%;
+    width: 100%;
+    background-color:#FCFCFC;
+    border: 4px solid #0071BC;
+}
+
+.grey-small{
+    padding:2%;
+    height: 37%;
+    width: 100%;
+    background-color:#304A67;
+    border: 4px solid #2267B5;
+    margin-bottom:2.9%;
+
+}
+.grey-large{
+    padding:10%;
+    height: 56%;
+    width: 100%;
+    background-color:#304A67;
+    border: 4px solid #2267B5;
+    text-align: center;
+    font-size:200%;
+    font-family:MyriadPro-Regular;
+}
+
+
+.white-small{
+    padding:1.5%;
+    height: 100%;
+    width: 18.5%;
+    background-color:#FFFFFF;
+    border: 1px solid #93278F;
+    margin-right: 8%;
+    float: left;
+
+}
+
+
+.white-small:last-child{
+    margin-right: 0;
+}
+
+.blue-small{
+    height: 100%;
+    width: 100%;
+    background-color:#75B3F9;
+    border: 1px solid #FFFFFF;
+    padding: 20% 0;
+    text-align: center;
+    font-family: MyriadPro-Regular;
+}
+
