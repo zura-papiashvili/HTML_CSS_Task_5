@@ -21,7 +21,7 @@ The height and width properties are used to set the height and width of an eleme
 The height and width properties do not include padding, borders, or margins. It sets the height/width of the area inside the padding, border, and margin of the element.
 CSS height and width Values
 
-####The height and width properties may have the following values:
+#### The height and width properties may have the following values:
 
 * auto - This is default. The browser calculates the height and width
 * length - Defines the height/width in px, cm etc.
@@ -30,7 +30,7 @@ CSS height and width Values
 * inherit - The height/width will be inherited from its parent value
 
 
-###Example
+### Example
 Set the height and width of a <div> element:
 
 ``` css
